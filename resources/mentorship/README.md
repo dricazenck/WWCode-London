@@ -30,7 +30,7 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 <tbody>
 
 <tr>
-  <th>session</th> <th>speaker(s)</th>
+  <th>session</th> <th>description</th> <th>speaker(s)</th>
 </tr>
 
 <tr>
@@ -38,6 +38,11 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 
   [Mentorship Program Launch & Panel Discussion](https://www.youtube.com/watch?v=VxF2Br-mZTU&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=6)</th>
 
+<td> 
+Mentorship: How to start? Practical Tips from experienced mentors:
+
+We, at Women Who Code, choose to challenge the fact that women are less likely to have a sponsor who advocates and opens doors for them (source: https://leanin.org/mentor-her). One of the ways to solve this is to provide a platform for people to connect based on professional merits.
+</td>
   <td>
 
   ✪ [Jamica Ortiz](https://www.linkedin.com/in/jortizbr/)
@@ -57,6 +62,9 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 
   [Mentorship: Start of the Programme 2.0 & Panel Discussion](https://www.youtube.com/watch?v=x2PJ0v_lAlM&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=27)</th>
 
+<td>
+Panel discussion "Mentorship: How to start? Practical Tips from experienced mentors" and Q&A
+</td>
   <td>
 
   ✪ [Vanessa Yiu](https://www.linkedin.com/in/vanessa-yiu-12a1375/)
@@ -78,6 +86,10 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 
   [Start of the Mentorship Programme 3.0 & Panel Discussion](https://www.youtube.com/watch?v=mznVrMbcFxk&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=40)</th>
 
+<td> 
+In this session, WWCode London team provided attendees with a comprehensive overview of the mentorship programme, outlining its origins, highlighting the anticipated benefits, and guiding individuals on the registration process as mentors or mentees. The event culminated with an engaging panel discussion, where seasoned mentors shared their insights and addressed a multitude of questions from the audience.
+</td>
+
   <td>
 
   ✪ [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
@@ -94,5 +106,44 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
   </td>
 </tr>
 
+<tr>
+  <th align="left">
+
+  [Mentorship Programme 4.0 & Panel Discussion](https://www.youtube.com/watch?v=AuDyfjDr9rA&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=8)</th>
+
+<td> 
+The Panel Discussion “What makes a good mentor?” was centred around essential topics such as effective communication, establishing clear expectations, providing guidance and delivering constructive feedback. The panelists, experienced mentors and experts in their fields, shared their insights on the role of mentorship, uncovering the challenges and opportunities that come with this impactful relationship. The audience actively participated in the discussion, raising thought-provoking questions and engaging in meaningful conversations.
+This event could be particularly beneficial for both first-time mentors seeking guidance to embark on their mentoring journey and experienced mentors looking to refine their approaches.
+</td>
+
+  <td>
+
+  ✪ [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
+
+  ✪ [Andrew King](https://www.linkedin.com/in/andrewkingit/)
+
+  ✪ [Ana Nogal](https://www.linkedin.com/in/ananogal/)
+
+  ✪ [Aishwarya Nair](https://www.linkedin.com/in/aishwarya-nair-data-scientist/)
+
+  ✪ [Adriana Zenck Zimmermann](https://www.linkedin.com/in/dricazenck/)
+  </td>
+</tr>
+
 </tbody>
 </table>
+
+## Volunteer
+- Apply for a programme as a mentor
+- Become a contributor to the website
+- Support long-term or ad-hoc mentorship formats
+- Organize and host events for mentors and mentees
+- Help us to spread information about the programme
+- Write blog posts and more…
+## Join our Slack channels
+- Stay in the loop with the latest updates on our mentorship program by following the #mentorship Slack channel. Stay informed about program news, resources, and opportunities to connect with mentors and mentees.
+- If you're interested in becoming a volunteer and making an impact, we invite you to join the #i_want_to_help Slack channel. Share your passion and discover ways to contribute to our programme through volunteer opportunities.
+## Programmes
+- [Long Term Mentorship](https://womenwhocode.github.io/london/timeline)
+- [Ad-hoc Mentorship](https://womenwhocode.github.io/london/ad-hoc-timeline)
+- [Study Groups](https://womenwhocode.github.io/london/study-group)
