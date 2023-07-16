@@ -36,7 +36,7 @@ In this study group, we will dive deep into the world of API testing, exploring 
 <tbody>
 
 <tr>
-  <th>session</th> <th>Description</th> <th>speaker(s)</th>
+  <th style="width:20%">session</th> <th style="width:60%">Description</th> <th style="width:20%">speaker(s)</th>
 </tr>
 
 <tr>
