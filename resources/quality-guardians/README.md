@@ -1,7 +1,7 @@
 ### Projects
 <h4>Postman Study Group</h4>
 
-<h5>What is Postman Study Group?</h5>
+<h5>What is the Postman Study Group?</h5>
 <p> Are you looking to enhance your API testing and collaboration skills? Join our Postman Study Group, which will be focused on mastering API testing skills and the Postman API testing platform. Whether you are a beginner or an experienced user, this study group offers a supportive environment to learn, exchange ideas, and grow together.
 In this study group, we will dive deep into the world of API testing, exploring essential concepts, methodologies, and tools that ensure the quality and reliability of APIs. With a specific attention to utilizing Postman, a leading API development and testing platform, we will guide you through various testing techniques, best practices, and advanced features to create robust and efficient API test suites. </p>
 
