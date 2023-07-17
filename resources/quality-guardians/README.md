@@ -28,7 +28,9 @@ In this study group, we will dive deep into the world of API testing, exploring 
     <li><b>Introduction to Postman.</b> Get acquainted with the fundamentals of Postman and its interface.</li>
     <li><b>Advanced Postman Features and Integrations.</b> Dive into advanced features such as monitoring, mock servers and faker library and many more.</li>
 </ul>
-<b>Final project:</b> [30-days of Postman for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview)
+<b>Final project:</b> 
+
+[30-days of Postman for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview)
 
 ### Events
 
@@ -40,7 +42,10 @@ In this study group, we will dive deep into the world of API testing, exploring 
 </tr>
 
 <tr>
-  <td align="left">[Effective Dev and QA communication](https://www.youtube.com/watch?v=hTEI8-D6Rao)</td>
+  <td align="left">
+
+[Effective Dev and QA communication](https://www.youtube.com/watch?v=hTEI8-D6Rao)
+  </td>
   <td align="left">One of the most crucial soft skills, both within and outside of the job, is communication. It also functions as an elixir for extremely healthy applications. There are no other roles in software engineering that are as dependent on one another as the tester and developer. Without each other, neither would be able to do their respective tasks. Although software testers and developers have a shared objective, poor communication causes them to lose sight of it and turn against one another.
 <ul>
     <li>For a test engineer, what does effective communication look like?</li>
@@ -49,13 +54,24 @@ In this study group, we will dive deep into the world of API testing, exploring 
 </ul>
 
 There are only general ideas and techniques to be found while searching online for articles on effective communication. In this talk, speaker will focus on the subtleties of communication barriers between testers and developers and share with you some recommendations on how to have an effective conversation.</th>
-  <td>[Sowmya Sridharamurthy](https://www.linkedin.com/in/sowmyasridharamurthy/)</td>
+  <td> 
+      
+[Sowmya Sridharamurthy](https://www.linkedin.com/in/sowmyasridharamurthy/)
+      
+</td>
 </tr>
 
 <tr>
-  <td align="left">[How I Drove and Maintained E2E Testing to Deliver Company to Stable Releases](https://www.youtube.com/watch?v=ti9qaNntBDo)</td>
+  <td align="left">
+      
+[How I Drove and Maintained E2E Testing to Deliver Company to Stable Releases](https://www.youtube.com/watch?v=ti9qaNntBDo)
+
+</td>
   <td align="left">How to deal with test flakiness? How to keep continuous integration execution time in check with the growing number of tests? How to prioritize what should be covered by tests first?</th>
-  <td>[Marcin Wosinek](https://www.linkedin.com/in/marcinwosinek/)</td>
+  <td>
+
+[Marcin Wosinek](https://www.linkedin.com/in/marcinwosinek/)
+  </td>
 </tr>
 
 
