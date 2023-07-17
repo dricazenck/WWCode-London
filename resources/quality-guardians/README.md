@@ -25,7 +25,7 @@ In this study group, we will dive deep into the world of API testing, exploring 
 <ul>
     <li><b>Introduction to API and API Testing.</b> Explore the concept of API, best practices to design, execute and automate API tests.</li>
     <li><b>Introduction to Javascript.</b> Spend some time going through fundamentals of Javascript to be comfortable programming while scripting in Postman.</li>
-    <li><b>Introduction to Postman:</b> Get acquainted with the fundamentals of Postman and its interface.</li>
+    <li><b>Introduction to Postman.</b> Get acquainted with the fundamentals of Postman and its interface.</li>
     <li><b>Advanced Postman Features and Integrations:</b> Dive into advanced features such as monitoring, mock servers and faker library and many more.</li>
 </ul>
 <b>Final project:</b> [30-days of Postman for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview)
