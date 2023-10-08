@@ -1,7 +1,7 @@
 Session 3  - Introduction to Postman
 ---
 ### Description
-During this session, we will learn the essentials of Postman (API testing and development tool). Discover how Postman can streamline your workflow, automate tasks, and enhance your API testing capabilities.
+Learn the essentials of Postman (API testing and development tool). Discover how Postman can streamline your workflow, automate tasks, and enhance your API testing capabilities.
 
 Speaker: [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
 
