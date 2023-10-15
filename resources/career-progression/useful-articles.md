@@ -10,3 +10,5 @@ This pull request includes adding an article related to Codewars. This article s
 We encourage other members to share their own articles and content in this section. Please review this change and share your feedback.
 
 By approving this change, we can add a valuable resource to our community. Thank you!
+
+Link is here: https://arzuguneycaner.medium.com/exploring-the-codewars-universe-a-developers-journey-9bc5a937cabd
