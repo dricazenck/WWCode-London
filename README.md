@@ -340,7 +340,7 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 
 ## About Women Who Code
 
-WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
+WWCode is the largest and most active community of technical women in the world. We have over 343,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
  <br>
 
 ## Code of Conduct
